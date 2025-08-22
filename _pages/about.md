@@ -1,5 +1,5 @@
 ---
-title: "Yunzhi Lin"
+title: "Welcome"
 permalink: /
 layout: single
 author_profile: true
@@ -15,4 +15,4 @@ On campus, I lead EnableTech at Berkeley and volunteer with the Society of Women
 
 Tools I enjoy: SolidWorks, Onshape, Creo, Fusion 360, FEBio, COMSOL. Languages: Python, Java, SQL, JavaScript, C++, Scheme.
 
-See my [Projects](/projects/) and [Coursework](/coursework/), or view my [Resume](/assets/pdfs/Yunzhi_Lin_Resume.pdf). You can also find me on [LinkedIn](https://www.linkedin.com/in/yunzhi-l/).
+See my [Projects](/projects/) and [Coursework](/coursework/), or view my [Resume](https://lin-yunzhi.github.io/resume). You can also find me on [LinkedIn](https://www.linkedin.com/in/yunzhi-l/).

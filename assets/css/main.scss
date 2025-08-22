@@ -37,4 +37,24 @@
     max-height: 260px;
     border-width: 6px;
   }
+}
+
+/* Hide site title in the masthead */
+.masthead .site-title { display: none !important; }
+
+/* More separation between name/bio and the links in the sidebar */
+.sidebar .author__content { margin-bottom: 0.5rem; }
+
+/* Hide search functionality */
+.search__toggle,
+.search__toggle-btn,
+.search__toggle-label {
+  display: none !important;
+}
+
+/* Hide footer social links (GitHub, LinkedIn, Feed) */
+.page__footer-follow,
+.footer__links,
+.footer__social-links {
+  display: none !important;
 } 
