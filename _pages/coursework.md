@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-### Fall 2025 (in progress)
-- **BIOENG 103**: Engineering Molecules 2
-- **BIOENG C131**: Introduction to Computational Molecular and Cell Biology
+### Fall 2025
+- **MECENG 108**: Mechanical Behavior of Engineering Materials
 - **MECENG 100**: Electronics for the Internet of Things
+- **BIOENG C131**: Introduction to Computational Molecular and Cell Biology
 
 ### Spring 2025
 - **BIOENG 11**: Engineering Molecules 1
