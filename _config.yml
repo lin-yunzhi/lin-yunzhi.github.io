@@ -11,7 +11,7 @@ url: "https://lin-yunzhi.github.io"
 baseurl: ""
 
 # Visual style
-minimal_mistakes_skin: mint   # try: air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+minimal_mistakes_skin: sunrise   # try: air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
 
 # Search
 search: false
