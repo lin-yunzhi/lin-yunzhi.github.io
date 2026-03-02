@@ -12,7 +12,11 @@ A physical marble maze with closed-loop PID tilt control, randomized servo obsta
 
 ## Demo Video
 
-<iframe width="100%" height="480" src="https://drive.google.com/file/d/1nxclE1-IsiaL9tj5l7w8WAHmM2VxmcHt/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1nxclE1-IsiaL9tj5l7w8WAHmM2VxmcHt/preview"
+        width="100%"
+        height="480"
+        allow="autoplay">
+</iframe>
 
 ## Project Report
 
