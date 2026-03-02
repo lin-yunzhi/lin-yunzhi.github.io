@@ -1,5 +1,5 @@
 ---
-title: "IOT Electromechanical Marble Maze"
+title: "IoT Electromechanical Marble Maze"
 permalink: /projects/marble-maze/
 layout: single
 author_profile: true
