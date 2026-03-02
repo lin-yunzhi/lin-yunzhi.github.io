@@ -1,3 +1,9 @@
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+author_profile: true
+---
 <div>
 
 <a href="/projects/marble-maze/" style="text-decoration: none; color: inherit;">
