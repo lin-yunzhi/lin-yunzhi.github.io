@@ -20,4 +20,5 @@ A physical marble maze with closed-loop PID tilt control, randomized servo obsta
 
 ## Project Report
 <!--<a class="btn" href="/assets/pdfs/IoT%20Electromechanical%20Marble%20Maze.pdf" target="_blank">Open Full Technical Report (PDF)</a>-->
-<a class="btn" href="https://github.com/lin-yunzhi/lin-yunzhi.github.io/blob/master/assets/pdfs/marble-maze.pdf" target="_blank">Open Full Technical Report (PDF)</a>
+<!--<a class="btn" href="https://github.com/lin-yunzhi/lin-yunzhi.github.io/blob/master/assets/pdfs/marble-maze.pdf" target="_blank">Open Full Technical Report (PDF)</a>-->
+<a class="btn" href="https://github.com/lin-yunzhi/lin-yunzhi.github.io/blob/master/assets/pdfs/IoT%20Electromechanical%20Marble%20Maze.pdf" target="_blank">Open Full Technical Report (PDF)</a>
