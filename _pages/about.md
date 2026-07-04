@@ -10,4 +10,4 @@ I’m currently interning with the Maternal Infant Care team at GE Healthcare, w
 
 See my [Projects](/projects/) and [Coursework](/coursework/), or view my [Resume](https://lin-yunzhi.github.io/resume). 
 
-// You can also find me on [LinkedIn](https://www.linkedin.com/in/yunzhi-l/).
+<!--You can also find me on [LinkedIn](https://www.linkedin.com/in/yunzhi-l/).-->
