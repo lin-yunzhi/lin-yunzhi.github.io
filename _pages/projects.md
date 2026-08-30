@@ -10,7 +10,9 @@ author_profile: true
 
 <a href="/projects/ge-healthcare/" style="text-decoration: none; color: inherit;">
 
-  <img src="/assets/images/GEHC_Incubator.png" alt="GE HealthCare Maternal and Infant Care" style="width: 100%; height: auto; display: block;">
+  <img src="/assets/images/GEHC_Incubator.png"
+     alt="GE HealthCare Maternal and Infant Care"
+     style="width: 100%; height: auto; display: block;">
 
   <div style="padding: 1.2rem;">
     <h2 style="margin-top: 0; margin-bottom: 0.5rem;">GE HealthCare — Maternal & Infant Care</h2>
