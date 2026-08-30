@@ -17,7 +17,7 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 0.5rem;">GE HealthCare — Maternal & Infant Care</h2>
 
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
-      Mechanical design, safety analysis, simulation, and design verification for next-generation neonatal incubators and warmers.
+      Mechanical design, risk analysis, and DOEs for next-generation neonatal incubators and warmers.
     </p>
 
     <p style="margin-top: 1rem; font-weight: 600;">Click to view project details →</p>
