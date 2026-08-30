@@ -4,6 +4,11 @@ permalink: /coursework/
 layout: single
 author_profile: true
 ---
+### Fall 2026
+**Process Engineering Co-Op at Tesla**
+
+### Spring 2026
+**Mechanical Engineering Co-Op at GE Healthcare**
 
 ### Fall 2025
 - **MECENG 108**: Mechanical Behavior of Engineering Materials
