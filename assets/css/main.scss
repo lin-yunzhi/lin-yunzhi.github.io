@@ -4,6 +4,10 @@
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
+.sidebar {
+  opacity: 1;
+}
+
 /* Responsive, circular, extra large avatar */
 .sidebar .author__avatar {
   display: flex;
